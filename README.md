@@ -3,13 +3,13 @@
 ## Hi there 👋
 [![Linkedin: ApekshaGaonkar](https://img.shields.io/badge/-apeksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apekshag1/)](https://www.linkedin.com/in/apekshag1/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://apekshagaonkar.github.io/)](https://apekshagaonkar.github.io/)
-- 🔭 I’m incoming student of Masters in ECE at UC San Diego, majoring in **Machine Learning & Data Science**.
-- 🌱 I’m always trying learn new things in Python, NLP, Computer Vision.
-- 👯 I’m looking to collaborate on Machine Learning projects/repo and Data Science for good projects.
-- 🤔 I’m looking for opportunity to gain ML Research experience.
+- 🔭 I’m student of Masters at UC San Diego with a fascination for the boundless world of Artificial Intelligence. 🌌
+- 💡 Constantly curious, I thrive on turning complex problems into elegant solutions. From neural networks to deep learning and beyond, I'm on a mission to unravel the mysteries of AI and bring innovation to life! 🧠
+- 🔍 Exploring the endless possibilities of data, I'm all about creating intelligent systems that make a positive impact on our lives. Whether it's natural language processing, computer vision, or machine learning, I love delving into the AI realm to push the boundaries of what's possible. 🌐
+- 🛠️ When I'm not coding, you can find me pondering the ethical implications of AI or immersed in a sci-fi novel, drawing inspiration from the fantastic worlds and technologies envisioned by authors. 📚✨
+- 🌱 Join me on this thrilling journey as we shape the future with lines of code and algorithms that transform imagination into reality. Let's make the world a smarter, more connected place! 🌍💻
 - 🤝 How to connect with me: agaonkar@ucsd.edu | [LinkedIn](https://apekshagaonkar.github.io/)
 - 😄 Here's my portfolio website: [apekshagaonkar.github.io](https://apekshagaonkar.github.io)
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaGaonkar&layout=compact&theme=dark&hide_border=True)](https://github.com/Apekshagaonkar)
