@@ -3,8 +3,8 @@
 ## Hi there 👋
 [![Linkedin: ApekshaGaonkar](https://img.shields.io/badge/-apeksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apekshag1/)](https://www.linkedin.com/in/apekshag1/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://apekshagaonkar.github.io/)](https://apekshagaonkar.github.io/)
-- 🔭 I’m student of Masters at UC San Diego with a fascination for the boundless world of Artificial Intelligence. 🌌
-- 💡 Constantly curious, I thrive on turning complex problems into elegant solutions. From neural networks to deep learning and beyond, I'm on a mission to unravel the mysteries of AI and bring innovation to life! 🧠
+- 🔭 I am a graduate student specializing in Machine Learning and Data Science at UCSD. 🌌
+- 💡 Constantly curious, I thrive on turning complex problems into elegant solutions. From machine learning to deep learning and beyond,  I am fascinated by unraveling intricate data patterns and transforming raw information into actionable insights. 🧠
 - 🔍 Exploring the endless possibilities of data, I'm all about creating intelligent systems that make a positive impact on our lives. Whether it's natural language processing, computer vision, or machine learning, I love delving into the AI realm to push the boundaries of what's possible. 🌐
 - 🛠️ When I'm not coding, you can find me pondering the ethical implications of AI or immersed in a sci-fi novel, drawing inspiration from the fantastic worlds and technologies envisioned by authors. 📚✨
 - 🌱 Join me on this thrilling journey as we shape the future with lines of code and algorithms that transform imagination into reality. Let's make the world a smarter, more connected place! 🌍💻
